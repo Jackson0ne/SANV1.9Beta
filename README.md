@@ -48,6 +48,9 @@ To get started, please read the information below, then navigate to the [Beta Re
 >   - :penguin: Or on Linux, navigate to `~/.local/share`
 > - In the folder that appears, find `Steam Achievement Notifier (V1.9)` and either delete it, or rename it (e.g. `Steam Achievement Notifier (V1.9).old`)
 > - Copy your `Steam Achievement Notifier (V1.9)` backup folder (from somewhere safe) and paste it back into the original location
->   - If your original app config is still not being loaded, please ensure the folder is named `Steam Achievement Notifier (V1.9)` *exactly*, otherwise it will not get picked up by SAN
 
+> ⚠️ *If your original app config is still not being loaded, please ensure the folder is named `Steam Achievement Notifier (V1.9)` *exactly*. Otherwise, it will not get picked up by **Steam Achievement Notifier** on launch, and a default folder will be recreated and used instead.*
+
+<hr/>
 <h3 align="center">🧪 Happy Beta Testing! 🧪</h3>
+<hr/>
