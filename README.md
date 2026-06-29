@@ -22,10 +22,20 @@ To get started, please read the information below, then navigate to the [Beta Re
 > 
 > When released, the official `EXEs`/`AppImages` will be available to download on the [Steam Achievement Notifier Releases page](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier/releases), or linked in the `#⁠updates` channel on [Discord](https://discord.com/invite/FxCFtpd3eu).
 
-<h2>Installation & Backup</h2>
+<h2>Revisions</h2>
+
+> [!IMPORTANT]
+> The latest available **Beta versions** of Steam Achievement Notifier (V1.9) are released as new **Revision**s (e.g. **\[Revision 1/2/3\]** etc.).
+> 
+> Each newly-released **Revision** will be communicated via the `#beta-releases` channel on [Discord](https://discord.com/invite/FxCFtpd3eu), so please ensure you have manually installed the latest available **Revision** when testing.
+
+> [!TIP]
+> Updates and bug fixes added in the latest available **Revision** will show a ✨ symbol in the release notes on the [Beta Releases page](https://github.com/Jackson0ne/SANV1.9Beta/releases).
+
+<h2>Installation</h2>
 
 > [!NOTE]
-> To install (or to install new revisions once released):
+> To install (or to update to new **Revisions** once released):
 > - Download the latest `EXE`/`AppImage` from the [Beta Releases page](https://github.com/Jackson0ne/SANV1.9Beta/releases)
 > - Run the installer
 > 
@@ -33,8 +43,12 @@ To get started, please read the information below, then navigate to the [Beta Re
 >
 > ⚠️ *Please see below if you wish to back up your existing app config before testing out any available **Beta versions**.*
 
+<h2>Backup</h2>
+
 > [!TIP]
-> If you wish to back up your existing app config before testing out any available **Beta versions**, use **Settings** > **Advanced** > **Backup**, and use **Settings** > **Advanced** > **Restore** to restore the app back to its pre-**Beta** state.
+> If you wish to back up your existing app config before testing out any available **Beta versions**:
+> - Use **Settings** > **Advanced** > **Backup** to back up your existing pre-**Beta** config
+> - Use **Settings** > **Advanced** > **Restore** to restore the app back to its pre-**Beta** state
 
 <details>
 <summary><h2>Manual Backup (Advanced)</h2></summary>
