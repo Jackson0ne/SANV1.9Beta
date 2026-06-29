@@ -36,24 +36,30 @@ To get started, please read the information below, then navigate to the [Beta Re
 > [!TIP]
 > If you wish to back up your existing app config before testing out any available **Beta versions**, use **Settings** > **Advanced** > **Backup**, and use **Settings** > **Advanced** > **Restore** to restore the app back to its pre-**Beta** state.
 
-<h2>Manual Backup (Advanced)</h2>
-
+<details>
+<summary><h2>Manual Backup (Advanced)</h2></summary>
 If you would rather manually back up your existing config, please do the following:
+<br>
 
-> [!TIP]
-> - Open the Start menu, type `%localappdata%` and press Enter
->   - :penguin: Or on Linux, navigate to `~/.local/share`
->
-> - In the folder that appears, find `Steam Achievement Notifier (V1.9)`
-> - Copy this folder somewhere safe
->
-> In the event you wish to restore this backup:
->
-> - Open the Start menu, type `%localappdata%` and press Enter
->   - :penguin: Or on Linux, navigate to `~/.local/share`
-> - In the folder that appears, find `Steam Achievement Notifier (V1.9)` and either delete it, or rename it (e.g. `Steam Achievement Notifier (V1.9).old`)
-> - Copy your `Steam Achievement Notifier (V1.9)` backup folder (from somewhere safe) and paste it back into the original location
+<h2>Manual Backup</h2>
 
-⚠️ *If your original app config is still not being loaded, please ensure the folder is named `Steam Achievement Notifier (V1.9)` *exactly*. Otherwise, it will not get picked up by **Steam Achievement Notifier** on launch, and a default folder will be recreated and used instead.*
+- Open the Start menu, type `%localappdata%` and press Enter
+    - :penguin: Or on Linux, navigate to `~/.local/share`
+
+- In the folder that appears, find `Steam Achievement Notifier (V1.9)`
+- Copy this folder somewhere safe
+
+<h2>Manual Restore</h2>
+
+- Open the Start menu, type `%localappdata%` and press Enter
+    - :penguin: Or on Linux, navigate to `~/.local/share`
+
+- In the folder that appears, find `Steam Achievement Notifier (V1.9)` and either delete it, or rename it (e.g. `Steam Achievement Notifier (V1.9).old`)
+- Copy your `Steam Achievement Notifier (V1.9)` backup folder (from somewhere safe) and paste it back into the original location
+
+<br>
+
+> ⚠️ *If your original app config is still not being loaded, please ensure the folder is named `Steam Achievement Notifier (V1.9)` *exactly*. Otherwise, it will not get picked up by **Steam Achievement Notifier** on launch, and a default folder will be recreated and used instead.*
+</details>
 
 <h3 align="center">🧪 Happy Beta Testing! 🧪</h3>
