@@ -34,8 +34,13 @@ To get started, please read the information below, then navigate to the [Beta Re
 > ⚠️ *Please see below if you wish to back up your existing app config before testing out any available **Beta versions**.*
 
 > [!TIP]
-> If you wish to back up your existing app config before testing out any available **Beta versions**, please do the following:
->
+> If you wish to back up your existing app config before testing out any available **Beta versions**, use **Settings** > **Advanced** > **Backup**, and use **Settings** > **Advanced** > **Restore** to restore the app back to its pre-**Beta** state.
+
+<h2>Manual Backup (Advanced)</h2>
+
+If you would rather manually back up your existing config, please do the following:
+
+> [!TIP]
 > - Open the Start menu, type `%localappdata%` and press Enter
 >   - :penguin: Or on Linux, navigate to `~/.local/share`
 >
@@ -49,8 +54,6 @@ To get started, please read the information below, then navigate to the [Beta Re
 > - In the folder that appears, find `Steam Achievement Notifier (V1.9)` and either delete it, or rename it (e.g. `Steam Achievement Notifier (V1.9).old`)
 > - Copy your `Steam Achievement Notifier (V1.9)` backup folder (from somewhere safe) and paste it back into the original location
 
-> ⚠️ *If your original app config is still not being loaded, please ensure the folder is named `Steam Achievement Notifier (V1.9)` *exactly*. Otherwise, it will not get picked up by **Steam Achievement Notifier** on launch, and a default folder will be recreated and used instead.*
+⚠️ *If your original app config is still not being loaded, please ensure the folder is named `Steam Achievement Notifier (V1.9)` *exactly*. Otherwise, it will not get picked up by **Steam Achievement Notifier** on launch, and a default folder will be recreated and used instead.*
 
-<hr/>
 <h3 align="center">🧪 Happy Beta Testing! 🧪</h3>
-<hr/>
